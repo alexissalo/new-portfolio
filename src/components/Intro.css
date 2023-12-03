@@ -180,6 +180,9 @@
     .intro-img {
       margin-bottom: 1.5rem;
     }
+    .intro-links{
+      margin: 5px;
+    }
     h1,
     .intro-p {
       text-align: center;
@@ -222,6 +225,9 @@
     .skills {
       width: 100%;
       padding: 1.5rem;
+    }
+    .intro-links{
+      margin: 5px;
     }
   }
   
