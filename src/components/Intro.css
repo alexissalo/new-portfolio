@@ -149,6 +149,14 @@
     background-size: contain;
     background-repeat: no-repeat;
   }
+
+  .skill-h {
+    width: 2.5rem;
+    height: 2.5rem;
+    background: url("../../public/images/mysql.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
   
   @media only screen and (max-width: 1300px) {
     .intro-title {

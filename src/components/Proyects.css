@@ -130,6 +130,13 @@
     background-repeat: no-repeat;
     background-position: center;
   }
+
+  .img-proyect-4 {
+    background: url("../../public/images/noticiasdechivilcoy.PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
   
   .proyect-links {
     list-style: none;

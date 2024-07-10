@@ -144,6 +144,49 @@ function Proyects() {
             </div>
           </div>
         </div>
+
+        <div className="proyect-4 proyect-container">
+          <div className="right">
+            <a
+              className="img-link"
+              href="https://github.com/alexissalo/news-page"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="img-proyect-4"></div>
+            </a>
+            <div className="proyect-links">
+              <a
+                href="https://github.com/alexissalo/news-page"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <i class="bi bi-github"></i>
+              </a>
+            </div>
+          </div>
+          <div className="left">
+            <div className="top">
+              <h3 className="proyect-title">NEWS PAGE</h3>
+              <p className="proyect-description">
+                News page made with html, javascript, nodejs and mysql
+              </p>
+            </div>
+
+            <div className="bottom">
+              <h3>Tech used</h3>
+              <div className="proyect-skills">
+                <div className="skill-a"></div>
+                <div className="skill-c"></div>
+                <div className="skill-e"></div>
+                <div className="skill-h"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        
+
       </div>
     </section>
   );
